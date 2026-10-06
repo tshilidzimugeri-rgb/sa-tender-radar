@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-06 02:15",
- "open_tenders": 2128,
- "new_today": 0,
- "archive_size": 2139,
+ "updated": "2026-10-06 12:57",
+ "open_tenders": 2091,
+ "new_today": 44,
+ "archive_size": 2184,
  "llm_provider": null,
  "classifier": {
-  "training_examples": 10876,
-  "corpus_size": 23344,
+  "training_examples": 10894,
+  "corpus_size": 23389,
   "classes": [
    "Building Maintenance & Repairs",
    "Catering, Events & Travel",
@@ -25,40 +25,40 @@
    "Water & Sanitation"
   ],
   "cv_accuracy": 0.713,
-  "cv_macro_f1": 0.707,
+  "cv_macro_f1": 0.708,
   "per_sector_f1": {
-   "Building Maintenance & Repairs": 0.73,
-   "Catering, Events & Travel": 0.682,
-   "Cleaning, Hygiene & Waste": 0.724,
-   "Construction & Civil Works": 0.74,
-   "Electrical & Energy": 0.688,
-   "Health & Medical": 0.615,
-   "ICT & Software": 0.731,
-   "Machinery, Plant & Spares": 0.578,
-   "Professional & Consulting": 0.753,
-   "Property & Leasing": 0.885,
+   "Building Maintenance & Repairs": 0.743,
+   "Catering, Events & Travel": 0.691,
+   "Cleaning, Hygiene & Waste": 0.729,
+   "Construction & Civil Works": 0.744,
+   "Electrical & Energy": 0.68,
+   "Health & Medical": 0.632,
+   "ICT & Software": 0.733,
+   "Machinery, Plant & Spares": 0.566,
+   "Professional & Consulting": 0.746,
+   "Property & Leasing": 0.887,
    "Security Services": 0.801,
-   "Supplies, Printing & Uniforms": 0.702,
-   "Training & Development": 0.723,
-   "Transport, Fleet & Logistics": 0.603,
-   "Water & Sanitation": 0.652
+   "Supplies, Printing & Uniforms": 0.701,
+   "Training & Development": 0.72,
+   "Transport, Fleet & Logistics": 0.6,
+   "Water & Sanitation": 0.645
   }
  },
  "sector_sources": {
-  "rules": 1036,
-  "model": 663,
-  "unclassified": 440
+  "rules": 1054,
+  "model": 676,
+  "unclassified": 454
  },
  "digests": [
   {
    "profile": "Facilities services, Gauteng",
-   "new_matches": 0,
+   "new_matches": 2,
    "closing_soon": 5,
    "sent": []
   },
   {
    "profile": "ICT reseller, national",
-   "new_matches": 0,
+   "new_matches": 2,
    "closing_soon": 5,
    "sent": []
   }
