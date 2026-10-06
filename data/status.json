@@ -1,0 +1,66 @@
+{
+ "updated": "2026-10-06 02:15",
+ "open_tenders": 2128,
+ "new_today": 0,
+ "archive_size": 2139,
+ "llm_provider": null,
+ "classifier": {
+  "training_examples": 10876,
+  "corpus_size": 23344,
+  "classes": [
+   "Building Maintenance & Repairs",
+   "Catering, Events & Travel",
+   "Cleaning, Hygiene & Waste",
+   "Construction & Civil Works",
+   "Electrical & Energy",
+   "Health & Medical",
+   "ICT & Software",
+   "Machinery, Plant & Spares",
+   "Professional & Consulting",
+   "Property & Leasing",
+   "Security Services",
+   "Supplies, Printing & Uniforms",
+   "Training & Development",
+   "Transport, Fleet & Logistics",
+   "Water & Sanitation"
+  ],
+  "cv_accuracy": 0.713,
+  "cv_macro_f1": 0.707,
+  "per_sector_f1": {
+   "Building Maintenance & Repairs": 0.73,
+   "Catering, Events & Travel": 0.682,
+   "Cleaning, Hygiene & Waste": 0.724,
+   "Construction & Civil Works": 0.74,
+   "Electrical & Energy": 0.688,
+   "Health & Medical": 0.615,
+   "ICT & Software": 0.731,
+   "Machinery, Plant & Spares": 0.578,
+   "Professional & Consulting": 0.753,
+   "Property & Leasing": 0.885,
+   "Security Services": 0.801,
+   "Supplies, Printing & Uniforms": 0.702,
+   "Training & Development": 0.723,
+   "Transport, Fleet & Logistics": 0.603,
+   "Water & Sanitation": 0.652
+  }
+ },
+ "sector_sources": {
+  "rules": 1036,
+  "model": 663,
+  "unclassified": 440
+ },
+ "digests": [
+  {
+   "profile": "Facilities services, Gauteng",
+   "new_matches": 0,
+   "closing_soon": 5,
+   "sent": []
+  },
+  {
+   "profile": "ICT reseller, national",
+   "new_matches": 0,
+   "closing_soon": 5,
+   "sent": []
+  }
+ ]
+}

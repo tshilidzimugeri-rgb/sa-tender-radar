@@ -1,0 +1,16 @@
+[
+ {
+  "name": "Facilities services, Gauteng",
+  "sectors": ["Cleaning, Hygiene & Waste", "Security Services", "Building Maintenance & Repairs"],
+  "provinces": ["Gauteng"],
+  "keywords": ["office cleaning", "hygiene services", "security guarding", "garden maintenance"],
+  "exclude": []
+ },
+ {
+  "name": "ICT reseller, national",
+  "sectors": ["ICT & Software"],
+  "provinces": [],
+  "keywords": ["laptops", "network infrastructure", "software licences", "cyber security"],
+  "exclude": ["publication of names"]
+ }
+]
