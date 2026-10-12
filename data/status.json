@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-09 13:04",
- "open_tenders": 2118,
- "new_today": 292,
- "archive_size": 2603,
+ "updated": "2026-10-12 13:32",
+ "open_tenders": 2126,
+ "new_today": 142,
+ "archive_size": 2746,
  "llm_provider": null,
  "classifier": {
-  "training_examples": 11110,
-  "corpus_size": 23800,
+  "training_examples": 11178,
+  "corpus_size": 23941,
   "classes": [
    "Building Maintenance & Repairs",
    "Catering, Events & Travel",
@@ -24,30 +24,30 @@
    "Transport, Fleet & Logistics",
    "Water & Sanitation"
   ],
-  "cv_accuracy": 0.712,
-  "cv_macro_f1": 0.708,
+  "cv_accuracy": 0.716,
+  "cv_macro_f1": 0.712,
   "per_sector_f1": {
-   "Building Maintenance & Repairs": 0.727,
-   "Catering, Events & Travel": 0.693,
-   "Cleaning, Hygiene & Waste": 0.739,
-   "Construction & Civil Works": 0.744,
-   "Electrical & Energy": 0.679,
-   "Health & Medical": 0.643,
-   "ICT & Software": 0.729,
-   "Machinery, Plant & Spares": 0.56,
-   "Professional & Consulting": 0.74,
-   "Property & Leasing": 0.887,
-   "Security Services": 0.81,
-   "Supplies, Printing & Uniforms": 0.705,
-   "Training & Development": 0.715,
-   "Transport, Fleet & Logistics": 0.59,
-   "Water & Sanitation": 0.658
+   "Building Maintenance & Repairs": 0.726,
+   "Catering, Events & Travel": 0.687,
+   "Cleaning, Hygiene & Waste": 0.738,
+   "Construction & Civil Works": 0.748,
+   "Electrical & Energy": 0.689,
+   "Health & Medical": 0.624,
+   "ICT & Software": 0.731,
+   "Machinery, Plant & Spares": 0.58,
+   "Professional & Consulting": 0.75,
+   "Property & Leasing": 0.891,
+   "Security Services": 0.808,
+   "Supplies, Printing & Uniforms": 0.706,
+   "Training & Development": 0.725,
+   "Transport, Fleet & Logistics": 0.604,
+   "Water & Sanitation": 0.666
   }
  },
  "sector_sources": {
-  "rules": 1275,
-  "model": 800,
-  "unclassified": 528
+  "rules": 1343,
+  "model": 856,
+  "unclassified": 547
  },
  "digests": [
   {
