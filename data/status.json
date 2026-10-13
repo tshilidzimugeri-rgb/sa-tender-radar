@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-12 13:32",
- "open_tenders": 2126,
- "new_today": 142,
- "archive_size": 2746,
+ "updated": "2026-10-13 13:20",
+ "open_tenders": 2144,
+ "new_today": 121,
+ "archive_size": 2868,
  "llm_provider": null,
  "classifier": {
-  "training_examples": 11178,
-  "corpus_size": 23941,
+  "training_examples": 11236,
+  "corpus_size": 24057,
   "classes": [
    "Building Maintenance & Repairs",
    "Catering, Events & Travel",
@@ -24,41 +24,41 @@
    "Transport, Fleet & Logistics",
    "Water & Sanitation"
   ],
-  "cv_accuracy": 0.716,
-  "cv_macro_f1": 0.712,
+  "cv_accuracy": 0.717,
+  "cv_macro_f1": 0.713,
   "per_sector_f1": {
-   "Building Maintenance & Repairs": 0.726,
-   "Catering, Events & Travel": 0.687,
-   "Cleaning, Hygiene & Waste": 0.738,
-   "Construction & Civil Works": 0.748,
-   "Electrical & Energy": 0.689,
-   "Health & Medical": 0.624,
-   "ICT & Software": 0.731,
-   "Machinery, Plant & Spares": 0.58,
-   "Professional & Consulting": 0.75,
-   "Property & Leasing": 0.891,
+   "Building Maintenance & Repairs": 0.728,
+   "Catering, Events & Travel": 0.7,
+   "Cleaning, Hygiene & Waste": 0.737,
+   "Construction & Civil Works": 0.74,
+   "Electrical & Energy": 0.682,
+   "Health & Medical": 0.639,
+   "ICT & Software": 0.728,
+   "Machinery, Plant & Spares": 0.572,
+   "Professional & Consulting": 0.747,
+   "Property & Leasing": 0.89,
    "Security Services": 0.808,
    "Supplies, Printing & Uniforms": 0.706,
-   "Training & Development": 0.725,
-   "Transport, Fleet & Logistics": 0.604,
-   "Water & Sanitation": 0.666
+   "Training & Development": 0.733,
+   "Transport, Fleet & Logistics": 0.606,
+   "Water & Sanitation": 0.677
   }
  },
  "sector_sources": {
-  "rules": 1343,
-  "model": 856,
-  "unclassified": 547
+  "rules": 1405,
+  "model": 889,
+  "unclassified": 574
  },
  "digests": [
   {
    "profile": "Facilities services, Gauteng",
-   "new_matches": 10,
+   "new_matches": 6,
    "closing_soon": 5,
    "sent": []
   },
   {
    "profile": "ICT reseller, national",
-   "new_matches": 10,
+   "new_matches": 9,
    "closing_soon": 5,
    "sent": []
   }
