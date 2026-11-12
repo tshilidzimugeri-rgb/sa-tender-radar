@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-11 13:37",
- "open_tenders": 2004,
- "new_today": 129,
- "archive_size": 5658,
+ "updated": "2026-11-12 14:02",
+ "open_tenders": 2072,
+ "new_today": 170,
+ "archive_size": 5828,
  "llm_provider": null,
  "classifier": {
-  "training_examples": 12725,
-  "corpus_size": 27150,
+  "training_examples": 12795,
+  "corpus_size": 27312,
   "classes": [
    "Building Maintenance & Repairs",
    "Catering, Events & Travel",
@@ -24,35 +24,35 @@
    "Transport, Fleet & Logistics",
    "Water & Sanitation"
   ],
-  "cv_accuracy": 0.719,
-  "cv_macro_f1": 0.715,
+  "cv_accuracy": 0.721,
+  "cv_macro_f1": 0.718,
   "per_sector_f1": {
-   "Building Maintenance & Repairs": 0.718,
-   "Catering, Events & Travel": 0.711,
-   "Cleaning, Hygiene & Waste": 0.732,
-   "Construction & Civil Works": 0.742,
-   "Electrical & Energy": 0.688,
-   "Health & Medical": 0.646,
-   "ICT & Software": 0.743,
-   "Machinery, Plant & Spares": 0.582,
-   "Professional & Consulting": 0.762,
+   "Building Maintenance & Repairs": 0.728,
+   "Catering, Events & Travel": 0.712,
+   "Cleaning, Hygiene & Waste": 0.731,
+   "Construction & Civil Works": 0.745,
+   "Electrical & Energy": 0.686,
+   "Health & Medical": 0.643,
+   "ICT & Software": 0.745,
+   "Machinery, Plant & Spares": 0.571,
+   "Professional & Consulting": 0.761,
    "Property & Leasing": 0.892,
-   "Security Services": 0.799,
-   "Supplies, Printing & Uniforms": 0.702,
+   "Security Services": 0.813,
+   "Supplies, Printing & Uniforms": 0.716,
    "Training & Development": 0.738,
-   "Transport, Fleet & Logistics": 0.61,
-   "Water & Sanitation": 0.658
+   "Transport, Fleet & Logistics": 0.599,
+   "Water & Sanitation": 0.693
   }
  },
  "sector_sources": {
-  "rules": 2748,
-  "model": 1723,
-  "unclassified": 1187
+  "rules": 2823,
+  "model": 1776,
+  "unclassified": 1229
  },
  "digests": [
   {
    "profile": "Facilities services, Gauteng",
-   "new_matches": 6,
+   "new_matches": 5,
    "closing_soon": 5,
    "sent": []
   },
