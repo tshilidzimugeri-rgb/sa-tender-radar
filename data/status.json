@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-17 14:41",
- "open_tenders": 2045,
- "new_today": 139,
- "archive_size": 6270,
+ "updated": "2026-11-18 14:32",
+ "open_tenders": 2062,
+ "new_today": 131,
+ "archive_size": 6401,
  "llm_provider": null,
  "classifier": {
-  "training_examples": 12976,
-  "corpus_size": 27739,
+  "training_examples": 13034,
+  "corpus_size": 27866,
   "classes": [
    "Building Maintenance & Repairs",
    "Catering, Events & Travel",
@@ -24,41 +24,41 @@
    "Transport, Fleet & Logistics",
    "Water & Sanitation"
   ],
-  "cv_accuracy": 0.716,
-  "cv_macro_f1": 0.712,
+  "cv_accuracy": 0.714,
+  "cv_macro_f1": 0.71,
   "per_sector_f1": {
-   "Building Maintenance & Repairs": 0.732,
-   "Catering, Events & Travel": 0.701,
-   "Cleaning, Hygiene & Waste": 0.732,
-   "Construction & Civil Works": 0.748,
-   "Electrical & Energy": 0.679,
-   "Health & Medical": 0.636,
-   "ICT & Software": 0.74,
-   "Machinery, Plant & Spares": 0.57,
-   "Professional & Consulting": 0.75,
-   "Property & Leasing": 0.887,
-   "Security Services": 0.799,
-   "Supplies, Printing & Uniforms": 0.712,
-   "Training & Development": 0.741,
-   "Transport, Fleet & Logistics": 0.594,
-   "Water & Sanitation": 0.66
+   "Building Maintenance & Repairs": 0.729,
+   "Catering, Events & Travel": 0.694,
+   "Cleaning, Hygiene & Waste": 0.731,
+   "Construction & Civil Works": 0.736,
+   "Electrical & Energy": 0.681,
+   "Health & Medical": 0.64,
+   "ICT & Software": 0.734,
+   "Machinery, Plant & Spares": 0.564,
+   "Professional & Consulting": 0.756,
+   "Property & Leasing": 0.89,
+   "Security Services": 0.808,
+   "Supplies, Printing & Uniforms": 0.707,
+   "Training & Development": 0.727,
+   "Transport, Fleet & Logistics": 0.598,
+   "Water & Sanitation": 0.657
   }
  },
  "sector_sources": {
-  "rules": 3007,
-  "model": 1920,
-  "unclassified": 1343
+  "rules": 3067,
+  "model": 1962,
+  "unclassified": 1372
  },
  "digests": [
   {
    "profile": "Facilities services, Gauteng",
-   "new_matches": 4,
+   "new_matches": 10,
    "closing_soon": 5,
    "sent": []
   },
   {
    "profile": "ICT reseller, national",
-   "new_matches": 7,
+   "new_matches": 10,
    "closing_soon": 5,
    "sent": []
   }
