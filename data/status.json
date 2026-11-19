@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-18 14:32",
- "open_tenders": 2062,
- "new_today": 131,
- "archive_size": 6401,
+ "updated": "2026-11-19 14:23",
+ "open_tenders": 2092,
+ "new_today": 136,
+ "archive_size": 6538,
  "llm_provider": null,
  "classifier": {
-  "training_examples": 13034,
-  "corpus_size": 27866,
+  "training_examples": 13105,
+  "corpus_size": 27996,
   "classes": [
    "Building Maintenance & Repairs",
    "Catering, Events & Travel",
@@ -24,35 +24,35 @@
    "Transport, Fleet & Logistics",
    "Water & Sanitation"
   ],
-  "cv_accuracy": 0.714,
-  "cv_macro_f1": 0.71,
+  "cv_accuracy": 0.717,
+  "cv_macro_f1": 0.712,
   "per_sector_f1": {
-   "Building Maintenance & Repairs": 0.729,
-   "Catering, Events & Travel": 0.694,
-   "Cleaning, Hygiene & Waste": 0.731,
-   "Construction & Civil Works": 0.736,
-   "Electrical & Energy": 0.681,
-   "Health & Medical": 0.64,
-   "ICT & Software": 0.734,
-   "Machinery, Plant & Spares": 0.564,
-   "Professional & Consulting": 0.756,
-   "Property & Leasing": 0.89,
-   "Security Services": 0.808,
-   "Supplies, Printing & Uniforms": 0.707,
-   "Training & Development": 0.727,
-   "Transport, Fleet & Logistics": 0.598,
-   "Water & Sanitation": 0.657
+   "Building Maintenance & Repairs": 0.726,
+   "Catering, Events & Travel": 0.712,
+   "Cleaning, Hygiene & Waste": 0.733,
+   "Construction & Civil Works": 0.73,
+   "Electrical & Energy": 0.685,
+   "Health & Medical": 0.626,
+   "ICT & Software": 0.739,
+   "Machinery, Plant & Spares": 0.561,
+   "Professional & Consulting": 0.761,
+   "Property & Leasing": 0.895,
+   "Security Services": 0.811,
+   "Supplies, Printing & Uniforms": 0.711,
+   "Training & Development": 0.736,
+   "Transport, Fleet & Logistics": 0.592,
+   "Water & Sanitation": 0.67
   }
  },
  "sector_sources": {
-  "rules": 3067,
-  "model": 1962,
-  "unclassified": 1372
+  "rules": 3140,
+  "model": 1999,
+  "unclassified": 1399
  },
  "digests": [
   {
    "profile": "Facilities services, Gauteng",
-   "new_matches": 10,
+   "new_matches": 3,
    "closing_soon": 5,
    "sent": []
   },
