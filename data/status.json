@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-19 14:23",
- "open_tenders": 2092,
- "new_today": 136,
- "archive_size": 6538,
+ "updated": "2026-11-20 14:25",
+ "open_tenders": 2111,
+ "new_today": 203,
+ "archive_size": 6742,
  "llm_provider": null,
  "classifier": {
-  "training_examples": 13105,
-  "corpus_size": 27996,
+  "training_examples": 13199,
+  "corpus_size": 28193,
   "classes": [
    "Building Maintenance & Repairs",
    "Catering, Events & Travel",
@@ -24,35 +24,35 @@
    "Transport, Fleet & Logistics",
    "Water & Sanitation"
   ],
-  "cv_accuracy": 0.717,
-  "cv_macro_f1": 0.712,
+  "cv_accuracy": 0.714,
+  "cv_macro_f1": 0.71,
   "per_sector_f1": {
-   "Building Maintenance & Repairs": 0.726,
-   "Catering, Events & Travel": 0.712,
+   "Building Maintenance & Repairs": 0.72,
+   "Catering, Events & Travel": 0.703,
    "Cleaning, Hygiene & Waste": 0.733,
-   "Construction & Civil Works": 0.73,
-   "Electrical & Energy": 0.685,
-   "Health & Medical": 0.626,
-   "ICT & Software": 0.739,
-   "Machinery, Plant & Spares": 0.561,
-   "Professional & Consulting": 0.761,
-   "Property & Leasing": 0.895,
-   "Security Services": 0.811,
-   "Supplies, Printing & Uniforms": 0.711,
-   "Training & Development": 0.736,
-   "Transport, Fleet & Logistics": 0.592,
-   "Water & Sanitation": 0.67
+   "Construction & Civil Works": 0.736,
+   "Electrical & Energy": 0.682,
+   "Health & Medical": 0.638,
+   "ICT & Software": 0.733,
+   "Machinery, Plant & Spares": 0.573,
+   "Professional & Consulting": 0.749,
+   "Property & Leasing": 0.887,
+   "Security Services": 0.812,
+   "Supplies, Printing & Uniforms": 0.701,
+   "Training & Development": 0.739,
+   "Transport, Fleet & Logistics": 0.582,
+   "Water & Sanitation": 0.658
   }
  },
  "sector_sources": {
-  "rules": 3140,
-  "model": 1999,
-  "unclassified": 1399
+  "rules": 3239,
+  "model": 2059,
+  "unclassified": 1444
  },
  "digests": [
   {
    "profile": "Facilities services, Gauteng",
-   "new_matches": 3,
+   "new_matches": 6,
    "closing_soon": 5,
    "sent": []
   },
