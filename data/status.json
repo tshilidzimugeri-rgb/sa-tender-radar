@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-24 16:28",
+ "updated": "2026-11-25 15:47",
  "open_tenders": 2159,
- "new_today": 145,
- "archive_size": 7085,
+ "new_today": 115,
+ "archive_size": 7200,
  "llm_provider": null,
  "classifier": {
-  "training_examples": 13370,
-  "corpus_size": 28526,
+  "training_examples": 13419,
+  "corpus_size": 28636,
   "classes": [
    "Building Maintenance & Repairs",
    "Catering, Events & Travel",
@@ -24,35 +24,35 @@
    "Transport, Fleet & Logistics",
    "Water & Sanitation"
   ],
-  "cv_accuracy": 0.717,
-  "cv_macro_f1": 0.713,
+  "cv_accuracy": 0.721,
+  "cv_macro_f1": 0.717,
   "per_sector_f1": {
-   "Building Maintenance & Repairs": 0.719,
-   "Catering, Events & Travel": 0.701,
-   "Cleaning, Hygiene & Waste": 0.733,
-   "Construction & Civil Works": 0.748,
-   "Electrical & Energy": 0.683,
-   "Health & Medical": 0.643,
+   "Building Maintenance & Repairs": 0.724,
+   "Catering, Events & Travel": 0.711,
+   "Cleaning, Hygiene & Waste": 0.732,
+   "Construction & Civil Works": 0.746,
+   "Electrical & Energy": 0.69,
+   "Health & Medical": 0.656,
    "ICT & Software": 0.743,
-   "Machinery, Plant & Spares": 0.565,
-   "Professional & Consulting": 0.745,
-   "Property & Leasing": 0.888,
-   "Security Services": 0.813,
-   "Supplies, Printing & Uniforms": 0.71,
-   "Training & Development": 0.744,
-   "Transport, Fleet & Logistics": 0.591,
-   "Water & Sanitation": 0.675
+   "Machinery, Plant & Spares": 0.572,
+   "Professional & Consulting": 0.756,
+   "Property & Leasing": 0.893,
+   "Security Services": 0.803,
+   "Supplies, Printing & Uniforms": 0.714,
+   "Training & Development": 0.749,
+   "Transport, Fleet & Logistics": 0.583,
+   "Water & Sanitation": 0.686
   }
  },
  "sector_sources": {
-  "rules": 3414,
-  "model": 2157,
-  "unclassified": 1514
+  "rules": 3467,
+  "model": 2192,
+  "unclassified": 1541
  },
  "digests": [
   {
    "profile": "Facilities services, Gauteng",
-   "new_matches": 10,
+   "new_matches": 7,
    "closing_soon": 5,
    "sent": []
   },
