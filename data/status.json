@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-25 15:47",
- "open_tenders": 2159,
- "new_today": 115,
- "archive_size": 7200,
+ "updated": "2026-11-26 15:26",
+ "open_tenders": 2121,
+ "new_today": 104,
+ "archive_size": 7304,
  "llm_provider": null,
  "classifier": {
-  "training_examples": 13419,
-  "corpus_size": 28636,
+  "training_examples": 13468,
+  "corpus_size": 28739,
   "classes": [
    "Building Maintenance & Repairs",
    "Catering, Events & Travel",
@@ -24,35 +24,35 @@
    "Transport, Fleet & Logistics",
    "Water & Sanitation"
   ],
-  "cv_accuracy": 0.721,
+  "cv_accuracy": 0.72,
   "cv_macro_f1": 0.717,
   "per_sector_f1": {
-   "Building Maintenance & Repairs": 0.724,
-   "Catering, Events & Travel": 0.711,
-   "Cleaning, Hygiene & Waste": 0.732,
-   "Construction & Civil Works": 0.746,
-   "Electrical & Energy": 0.69,
-   "Health & Medical": 0.656,
-   "ICT & Software": 0.743,
-   "Machinery, Plant & Spares": 0.572,
-   "Professional & Consulting": 0.756,
-   "Property & Leasing": 0.893,
-   "Security Services": 0.803,
-   "Supplies, Printing & Uniforms": 0.714,
-   "Training & Development": 0.749,
-   "Transport, Fleet & Logistics": 0.583,
-   "Water & Sanitation": 0.686
+   "Building Maintenance & Repairs": 0.736,
+   "Catering, Events & Travel": 0.709,
+   "Cleaning, Hygiene & Waste": 0.73,
+   "Construction & Civil Works": 0.75,
+   "Electrical & Energy": 0.683,
+   "Health & Medical": 0.653,
+   "ICT & Software": 0.747,
+   "Machinery, Plant & Spares": 0.574,
+   "Professional & Consulting": 0.752,
+   "Property & Leasing": 0.886,
+   "Security Services": 0.8,
+   "Supplies, Printing & Uniforms": 0.707,
+   "Training & Development": 0.741,
+   "Transport, Fleet & Logistics": 0.607,
+   "Water & Sanitation": 0.685
   }
  },
  "sector_sources": {
-  "rules": 3467,
-  "model": 2192,
-  "unclassified": 1541
+  "rules": 3516,
+  "model": 2221,
+  "unclassified": 1567
  },
  "digests": [
   {
    "profile": "Facilities services, Gauteng",
-   "new_matches": 7,
+   "new_matches": 3,
    "closing_soon": 5,
    "sent": []
   },
