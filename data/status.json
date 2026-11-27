@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-26 15:26",
- "open_tenders": 2121,
- "new_today": 104,
- "archive_size": 7304,
+ "updated": "2026-11-27 15:23",
+ "open_tenders": 2116,
+ "new_today": 217,
+ "archive_size": 7521,
  "llm_provider": null,
  "classifier": {
-  "training_examples": 13468,
-  "corpus_size": 28739,
+  "training_examples": 13582,
+  "corpus_size": 28948,
   "classes": [
    "Building Maintenance & Repairs",
    "Catering, Events & Travel",
@@ -24,35 +24,35 @@
    "Transport, Fleet & Logistics",
    "Water & Sanitation"
   ],
-  "cv_accuracy": 0.72,
-  "cv_macro_f1": 0.717,
+  "cv_accuracy": 0.719,
+  "cv_macro_f1": 0.716,
   "per_sector_f1": {
-   "Building Maintenance & Repairs": 0.736,
-   "Catering, Events & Travel": 0.709,
-   "Cleaning, Hygiene & Waste": 0.73,
-   "Construction & Civil Works": 0.75,
-   "Electrical & Energy": 0.683,
-   "Health & Medical": 0.653,
-   "ICT & Software": 0.747,
-   "Machinery, Plant & Spares": 0.574,
+   "Building Maintenance & Repairs": 0.731,
+   "Catering, Events & Travel": 0.718,
+   "Cleaning, Hygiene & Waste": 0.733,
+   "Construction & Civil Works": 0.743,
+   "Electrical & Energy": 0.691,
+   "Health & Medical": 0.643,
+   "ICT & Software": 0.748,
+   "Machinery, Plant & Spares": 0.57,
    "Professional & Consulting": 0.752,
-   "Property & Leasing": 0.886,
-   "Security Services": 0.8,
-   "Supplies, Printing & Uniforms": 0.707,
-   "Training & Development": 0.741,
-   "Transport, Fleet & Logistics": 0.607,
-   "Water & Sanitation": 0.685
+   "Property & Leasing": 0.89,
+   "Security Services": 0.809,
+   "Supplies, Printing & Uniforms": 0.715,
+   "Training & Development": 0.745,
+   "Transport, Fleet & Logistics": 0.581,
+   "Water & Sanitation": 0.666
   }
  },
  "sector_sources": {
-  "rules": 3516,
-  "model": 2221,
-  "unclassified": 1567
+  "rules": 3635,
+  "model": 2276,
+  "unclassified": 1610
  },
  "digests": [
   {
    "profile": "Facilities services, Gauteng",
-   "new_matches": 3,
+   "new_matches": 10,
    "closing_soon": 5,
    "sent": []
   },
